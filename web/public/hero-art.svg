@@ -1,0 +1,14 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" fill="white"/>
+  <circle cx="280" cy="180" r="220" fill="#0EA5E9" fill-opacity="0.12"/>
+  <circle cx="980" cy="320" r="260" fill="#22C55E" fill-opacity="0.10"/>
+  <path d="M140 420C260 320 380 340 520 410C660 480 760 470 910 390C1040 320 1110 330 1160 350" stroke="#0B0B0B" stroke-opacity="0.25" stroke-width="4" stroke-linecap="round"/>
+  <g opacity="0.85">
+    <path d="M340 165C360 140 395 130 425 135C460 142 488 170 495 205C503 245 477 285 438 298C400 311 356 295 336 260C316 225 320 190 340 165Z" fill="#0B0B0B" fill-opacity="0.08"/>
+    <path d="M865 285C885 260 920 250 950 255C985 262 1013 290 1020 325C1028 365 1002 405 963 418C925 431 881 415 861 380C841 345 845 310 865 285Z" fill="#0B0B0B" fill-opacity="0.08"/>
+  </g>
+  <text x="64" y="540" fill="#0B0B0B" fill-opacity="0.35" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="18">
+    Simple infographic-style background (replace with real photos later)
+  </text>
+</svg>
+
