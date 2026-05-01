@@ -190,8 +190,8 @@ export default function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <div className="grid grid-cols-5 gap-0">
-                    <div className="col-span-2 bg-black/2">
+                  <div className="flex flex-col sm:grid sm:grid-cols-5 sm:gap-0">
+                    <div className="aspect-[4/3] bg-black/2 sm:aspect-auto sm:col-span-2">
                       <Image
                         src={room.imageSrc}
                         alt={room.imageAlt}
@@ -200,7 +200,7 @@ export default function Home() {
                         className="h-full w-full object-cover"
                       />
                     </div>
-                    <div className="col-span-3 p-5">
+                    <div className="p-5 sm:col-span-3">
                       <p className="text-sm font-semibold">{room.title}</p>
                       <p className="mt-1 text-sm leading-6 text-muted">
                         {room.description}
